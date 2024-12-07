@@ -1,0 +1,1344 @@
+{
+    "9": [
+        {
+            "start": "cardinal",
+            "end": "9",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[9]]",
+            "weight": 2.0
+        },
+        {
+            "start": "9",
+            "end": "a number",
+            "relation": "number",
+            "surfaceText": "[[9]] is [[a number]]",
+            "weight": 2.0
+        },
+        {
+            "start": "nine",
+            "end": "9",
+            "relation": "wn",
+            "surfaceText": "[[nine]] is a synonym of [[9]]",
+            "weight": 2.0
+        },
+        {
+            "start": "9",
+            "end": "nine",
+            "relation": "quantity",
+            "surfaceText": "[[9]] is a synonym of [[nine]]",
+            "weight": 2.0
+        },
+        {
+            "start": "ix",
+            "end": "9",
+            "relation": "wn",
+            "surfaceText": "[[ix]] is a synonym of [[9]]",
+            "weight": 2.0
+        }
+    ],
+    "1": [
+        {
+            "start": "1",
+            "end": "a number",
+            "relation": "number",
+            "surfaceText": "[[1]] is [[a number]]",
+            "weight": 4.47213595499958
+        },
+        {
+            "start": "1s",
+            "end": "1",
+            "relation": "1",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "1",
+            "end": "a1",
+            "relation": "a1",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "1",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[1]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "1",
+            "end": "Abstaction",
+            "relation": "abstaction",
+            "surfaceText": "[[1]] is a kind of [[Abstaction]].",
+            "weight": 2.0
+        }
+    ],
+    "e": [
+        {
+            "start": "e's",
+            "end": "e",
+            "relation": "e",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "E",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[E]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "e\u2019s",
+            "end": "e",
+            "relation": "e",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "E",
+            "end": "east",
+            "relation": "linkdef",
+            "surfaceText": "[[E]] is a synonym of [[east]]",
+            "weight": 2.0
+        },
+        {
+            "start": "\u0153",
+            "end": "e",
+            "relation": "e",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "a": [
+        {
+            "start": "s",
+            "end": "a",
+            "relation": "a",
+            "surfaceText": null,
+            "weight": 4.47213595499958
+        },
+        {
+            "start": "a",
+            "end": "is a container",
+            "relation": "container",
+            "surfaceText": "[[a]] can [[is a container]]",
+            "weight": 4.0
+        },
+        {
+            "start": "s",
+            "end": "a",
+            "relation": "a",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "A",
+            "end": "the alphabet",
+            "relation": "alphabet",
+            "surfaceText": "[[A]] is part of [[the alphabet]].",
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "a",
+            "end": "apprentice",
+            "relation": "apprentice",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "u": [
+        {
+            "start": "u's",
+            "end": "u",
+            "relation": "u",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "U",
+            "end": "uracil",
+            "relation": "substance",
+            "surfaceText": "[[U]] is a synonym of [[uracil]]",
+            "weight": 2.0
+        },
+        {
+            "start": "U",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[U]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "U",
+            "end": "uranium",
+            "relation": "substance",
+            "surfaceText": "[[U]] is a synonym of [[uranium]]",
+            "weight": 2.0
+        },
+        {
+            "start": "u\u2019s",
+            "end": "u",
+            "relation": "u",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "d": [
+        {
+            "start": "D",
+            "end": "the alphabet",
+            "relation": "alphabet",
+            "surfaceText": "[[D]] is part of [[the alphabet]]",
+            "weight": 2.0
+        },
+        {
+            "start": "d\u2019s",
+            "end": "d",
+            "relation": "d",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "d",
+            "end": "c",
+            "relation": "c",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "ds",
+            "end": "d",
+            "relation": "d",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "D",
+            "end": "vitamin D",
+            "relation": "substance",
+            "surfaceText": "[[D]] is a synonym of [[vitamin D]]",
+            "weight": 2.0
+        }
+    ],
+    "o": [
+        {
+            "start": "O",
+            "end": "oxygen",
+            "relation": "substance",
+            "surfaceText": "[[O]] is a synonym of [[oxygen]]",
+            "weight": 2.0
+        },
+        {
+            "start": "oh",
+            "end": "o",
+            "relation": "o",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "o",
+            "end": "archaic",
+            "relation": "archaic",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "The chemical symbol of oxygen",
+            "end": "O",
+            "relation": "o",
+            "surfaceText": "[[The chemical symbol of oxygen]] is [[O]]",
+            "weight": 2.0
+        },
+        {
+            "start": "type O",
+            "end": "O",
+            "relation": "body",
+            "surfaceText": "[[type O]] is a synonym of [[O]]",
+            "weight": 2.0
+        }
+    ],
+    "b": [
+        {
+            "start": "a",
+            "end": "b",
+            "relation": "b",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "type B",
+            "end": "B",
+            "relation": "body",
+            "surfaceText": "[[type B]] is a synonym of [[B]]",
+            "weight": 2.0
+        },
+        {
+            "start": "b\u2019s",
+            "end": "b",
+            "relation": "b",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "group B",
+            "end": "B",
+            "relation": "body",
+            "surfaceText": "[[group B]] is a synonym of [[B]]",
+            "weight": 2.0
+        },
+        {
+            "start": "B",
+            "end": "blood group",
+            "relation": "body",
+            "surfaceText": "[[B]] is a type of [[blood group]]",
+            "weight": 2.0
+        }
+    ],
+    "x": [
+        {
+            "start": "X",
+            "end": "mark the spot",
+            "relation": "mark_spot",
+            "surfaceText": "[[X]] can [[mark the spot]]",
+            "weight": 3.4641016151377544
+        },
+        {
+            "start": "X",
+            "end": "ten",
+            "relation": "quantity",
+            "surfaceText": "[[X]] is a synonym of [[ten]]",
+            "weight": 2.0
+        },
+        {
+            "start": "X",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[X]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "X",
+            "end": "Adam",
+            "relation": "artifact",
+            "surfaceText": "[[X]] is a synonym of [[Adam]]",
+            "weight": 2.0
+        },
+        {
+            "start": "xs",
+            "end": "x",
+            "relation": "x",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "?": [],
+    "w": [
+        {
+            "start": "w",
+            "end": "west",
+            "relation": "west",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "ws",
+            "end": "w",
+            "relation": "w",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "w",
+            "end": "w o",
+            "relation": "w_o",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "w o",
+            "end": "w",
+            "relation": "w",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "W",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[W]] is a type of [[letter]]",
+            "weight": 2.0
+        }
+    ],
+    "5": [
+        {
+            "start": "five",
+            "end": "5",
+            "relation": "wn",
+            "surfaceText": "[[five]] is a synonym of [[5]]",
+            "weight": 2.0
+        },
+        {
+            "start": "5",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[5]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "5",
+            "end": "five",
+            "relation": "quantity",
+            "surfaceText": "[[5]] is a synonym of [[five]]",
+            "weight": 2.0
+        },
+        {
+            "start": "v",
+            "end": "5",
+            "relation": "wn",
+            "surfaceText": "[[v]] is a synonym of [[5]]",
+            "weight": 2.0
+        },
+        {
+            "start": "5s",
+            "end": "5",
+            "relation": "5",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    " ": [],
+    "s": [
+        {
+            "start": "s",
+            "end": "a",
+            "relation": "a",
+            "surfaceText": null,
+            "weight": 4.47213595499958
+        },
+        {
+            "start": "medial s",
+            "end": "s",
+            "relation": "s",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "s",
+            "end": "a",
+            "relation": "a",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "es",
+            "end": "s",
+            "relation": "s",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "terminal s",
+            "end": "s",
+            "relation": "s",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "\\": [],
+    "t": [
+        {
+            "start": "t\u2019s",
+            "end": "t",
+            "relation": "t",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "ts",
+            "end": "t",
+            "relation": "t",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "T",
+            "end": "deoxythymidine monophosphate",
+            "relation": "substance",
+            "surfaceText": "[[T]] is a synonym of [[deoxythymidine monophosphate]]",
+            "weight": 2.0
+        },
+        {
+            "start": "T",
+            "end": "triiodothyronine",
+            "relation": "body",
+            "surfaceText": "[[T]] is a synonym of [[triiodothyronine]]",
+            "weight": 2.0
+        },
+        {
+            "start": "to a T",
+            "end": "to perfection",
+            "relation": "wn",
+            "surfaceText": "[[to a T]] is a synonym of [[to perfection]]",
+            "weight": 2.0
+        }
+    ],
+    ".": [],
+    "z": [
+        {
+            "start": "zs",
+            "end": "z",
+            "relation": "z",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "zee",
+            "end": "Z",
+            "relation": "communication",
+            "surfaceText": "[[zee]] is a synonym of [[Z]]",
+            "weight": 2.0
+        },
+        {
+            "start": "ezed",
+            "end": "Z",
+            "relation": "communication",
+            "surfaceText": "[[ezed]] is a synonym of [[Z]]",
+            "weight": 2.0
+        },
+        {
+            "start": "izzard",
+            "end": "Z",
+            "relation": "communication",
+            "surfaceText": "[[izzard]] is a synonym of [[Z]]",
+            "weight": 2.0
+        },
+        {
+            "start": "Z",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[Z]] is a type of [[letter]]",
+            "weight": 2.0
+        }
+    ],
+    "y": [
+        {
+            "start": "Y",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[Y]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "y's",
+            "end": "y",
+            "relation": "y",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "wye",
+            "end": "Y",
+            "relation": "communication",
+            "surfaceText": "[[wye]] is a synonym of [[Y]]",
+            "weight": 2.0
+        },
+        {
+            "start": "Y",
+            "end": "yttrium",
+            "relation": "substance",
+            "surfaceText": "[[Y]] is a synonym of [[yttrium]]",
+            "weight": 2.0
+        },
+        {
+            "start": "y\u2019s",
+            "end": "y",
+            "relation": "y",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "g": [
+        {
+            "start": "gee",
+            "end": "g",
+            "relation": "quantity",
+            "surfaceText": "[[gee]] is a synonym of [[g]]",
+            "weight": 2.0
+        },
+        {
+            "start": "g's",
+            "end": "g",
+            "relation": "g",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "gs",
+            "end": "g",
+            "relation": "g",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "g\u2019s",
+            "end": "g",
+            "relation": "g",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "g-force",
+            "end": "g",
+            "relation": "quantity",
+            "surfaceText": "[[g-force]] is a synonym of [[g]]",
+            "weight": 2.0
+        }
+    ],
+    "7": [
+        {
+            "start": "7",
+            "end": "seven",
+            "relation": "quantity",
+            "surfaceText": "[[7]] is a synonym of [[seven]]",
+            "weight": 2.0
+        },
+        {
+            "start": "seven",
+            "end": "7",
+            "relation": "wn",
+            "surfaceText": "[[seven]] is a synonym of [[7]]",
+            "weight": 2.0
+        },
+        {
+            "start": "vii",
+            "end": "7",
+            "relation": "wn",
+            "surfaceText": "[[vii]] is a synonym of [[7]]",
+            "weight": 2.0
+        },
+        {
+            "start": "7",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[7]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "cardinal",
+            "end": "7",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[7]]",
+            "weight": 2.0
+        }
+    ],
+    "j": [
+        {
+            "start": "J",
+            "end": "joule",
+            "relation": "quantity",
+            "surfaceText": "[[J]] is a synonym of [[joule]]",
+            "weight": 2.0
+        },
+        {
+            "start": "j's",
+            "end": "j",
+            "relation": "j",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "j\u2019s",
+            "end": "j",
+            "relation": "j",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "j",
+            "end": "slang",
+            "relation": "slang",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "j",
+            "end": "marijuana",
+            "relation": "marijuana",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "c": [
+        {
+            "start": "basic",
+            "end": "c",
+            "relation": "c",
+            "surfaceText": null,
+            "weight": 3.4641016151377544
+        },
+        {
+            "start": "c",
+            "end": "programming language",
+            "relation": "programming_language",
+            "surfaceText": "[[c]] is a kind of [[programming language]]",
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "cs",
+            "end": "c",
+            "relation": "c",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "C",
+            "end": "deoxycytidine monophosphate",
+            "relation": "substance",
+            "surfaceText": "[[C]] is a synonym of [[deoxycytidine monophosphate]]",
+            "weight": 2.0
+        },
+        {
+            "start": "d",
+            "end": "c",
+            "relation": "c",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "!": [],
+    "'": [],
+    "f": [
+        {
+            "start": "fo",
+            "end": "f",
+            "relation": "f",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "fs",
+            "end": "f",
+            "relation": "f",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "F",
+            "end": "farad",
+            "relation": "quantity",
+            "surfaceText": "[[F]] is a synonym of [[farad]]",
+            "weight": 2.0
+        },
+        {
+            "start": "F",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[F]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "f",
+            "end": "folio",
+            "relation": "folio",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "4": [
+        {
+            "start": "4",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[4]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "cardinal",
+            "end": "4",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[4]]",
+            "weight": 2.0
+        },
+        {
+            "start": "4",
+            "end": "four",
+            "relation": "quantity",
+            "surfaceText": "[[4]] is a synonym of [[four]]",
+            "weight": 2.0
+        },
+        {
+            "start": "four",
+            "end": "4",
+            "relation": "wn",
+            "surfaceText": "[[four]] is a synonym of [[4]]",
+            "weight": 2.0
+        },
+        {
+            "start": "iv",
+            "end": "4",
+            "relation": "wn",
+            "surfaceText": "[[iv]] is a synonym of [[4]]",
+            "weight": 2.0
+        }
+    ],
+    "p": [
+        {
+            "start": "The Chemical Symbol for Phosphorous",
+            "end": "\"P\"",
+            "relation": "p",
+            "surfaceText": "[[The Chemical Symbol for Phosphorous]] is [[\"P\"]]",
+            "weight": 2.0
+        },
+        {
+            "start": "ps",
+            "end": "p",
+            "relation": "p",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "penny",
+            "end": "p",
+            "relation": "p",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "P",
+            "end": "the alphabet",
+            "relation": "alphabet",
+            "surfaceText": "[[P]] is part of [[the alphabet]]",
+            "weight": 2.0
+        },
+        {
+            "start": "P",
+            "end": "phosphorus",
+            "relation": "substance",
+            "surfaceText": "[[P]] is a synonym of [[phosphorus]]",
+            "weight": 2.0
+        }
+    ],
+    "n": [
+        {
+            "start": "n",
+            "end": "grammar",
+            "relation": "grammar",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "ns",
+            "end": "n",
+            "relation": "n",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "N",
+            "end": "nitrogen",
+            "relation": "substance",
+            "surfaceText": "[[N]] is a synonym of [[nitrogen]]",
+            "weight": 2.0
+        },
+        {
+            "start": "n's",
+            "end": "n",
+            "relation": "n",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "N",
+            "end": "normality",
+            "relation": "solution",
+            "surfaceText": "[[N]] is a synonym of [[normality]]",
+            "weight": 2.0
+        }
+    ],
+    "m": [
+        {
+            "start": "M",
+            "end": "thousand",
+            "relation": "quantity",
+            "surfaceText": "[[M]] is a synonym of [[thousand]]",
+            "weight": 2.0
+        },
+        {
+            "start": "M",
+            "end": "megabyte",
+            "relation": "quantity",
+            "surfaceText": "[[M]] is a synonym of [[megabyte]]",
+            "weight": 2.0
+        },
+        {
+            "start": "m",
+            "end": "1000",
+            "relation": "wn",
+            "surfaceText": "[[m]] is a synonym of [[1000]]",
+            "weight": 2.0
+        },
+        {
+            "start": "m's",
+            "end": "m",
+            "relation": "m",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "m",
+            "end": "meter",
+            "relation": "quantity",
+            "surfaceText": "[[m]] is a synonym of [[meter]]",
+            "weight": 2.0
+        }
+    ],
+    "3": [
+        {
+            "start": "3",
+            "end": "three",
+            "relation": "quantity",
+            "surfaceText": "[[3]] is a synonym of [[three]]",
+            "weight": 2.0
+        },
+        {
+            "start": "three",
+            "end": "3",
+            "relation": "wn",
+            "surfaceText": "[[three]] is a synonym of [[3]]",
+            "weight": 2.0
+        },
+        {
+            "start": "iii",
+            "end": "3",
+            "relation": "wn",
+            "surfaceText": "[[iii]] is a synonym of [[3]]",
+            "weight": 2.0
+        },
+        {
+            "start": "3",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[3]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "cardinal",
+            "end": "3",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[3]]",
+            "weight": 2.0
+        }
+    ],
+    "0": [
+        {
+            "start": "zero",
+            "end": "0",
+            "relation": "wn",
+            "surfaceText": "[[zero]] is a synonym of [[0]]",
+            "weight": 2.0
+        },
+        {
+            "start": "0",
+            "end": "zero",
+            "relation": "quantity",
+            "surfaceText": "[[0]] is a synonym of [[zero]]",
+            "weight": 2.0
+        },
+        {
+            "start": "0",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[0]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "cardinal",
+            "end": "0",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[0]]",
+            "weight": 2.0
+        },
+        {
+            "start": "binary number",
+            "end": "0",
+            "relation": "0",
+            "surfaceText": null,
+            "weight": 1.0
+        }
+    ],
+    "8": [
+        {
+            "start": "cardinal",
+            "end": "8",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[8]]",
+            "weight": 2.0
+        },
+        {
+            "start": "8",
+            "end": "eight",
+            "relation": "quantity",
+            "surfaceText": "[[8]] is a synonym of [[eight]]",
+            "weight": 2.0
+        },
+        {
+            "start": "eight",
+            "end": "8",
+            "relation": "wn",
+            "surfaceText": "[[eight]] is a synonym of [[8]]",
+            "weight": 2.0
+        },
+        {
+            "start": "viii",
+            "end": "8",
+            "relation": "wn",
+            "surfaceText": "[[viii]] is a synonym of [[8]]",
+            "weight": 2.0
+        },
+        {
+            "start": "8",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[8]] is similar to [[cardinal]]",
+            "weight": 2.0
+        }
+    ],
+    "\"": [],
+    "v": [
+        {
+            "start": "V",
+            "end": "volt",
+            "relation": "quantity",
+            "surfaceText": "[[V]] is a synonym of [[volt]]",
+            "weight": 2.0
+        },
+        {
+            "start": "v's",
+            "end": "v",
+            "relation": "v",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "vs",
+            "end": "v",
+            "relation": "v",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "V",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[V]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "V",
+            "end": "five",
+            "relation": "quantity",
+            "surfaceText": "[[V]] is a synonym of [[five]]",
+            "weight": 2.0
+        }
+    ],
+    "k": [
+        {
+            "start": "k",
+            "end": "kb",
+            "relation": "kb",
+            "surfaceText": null,
+            "weight": 2.82842712474619
+        },
+        {
+            "start": "honey oil",
+            "end": "K",
+            "relation": "artifact",
+            "surfaceText": "[[honey oil]] is a synonym of [[K]]",
+            "weight": 2.0
+        },
+        {
+            "start": "k's",
+            "end": "k",
+            "relation": "k",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "K",
+            "end": "kB",
+            "relation": "quantity",
+            "surfaceText": "[[K]] is a synonym of [[kB]]",
+            "weight": 2.0
+        },
+        {
+            "start": "k",
+            "end": "1000",
+            "relation": "wn",
+            "surfaceText": "[[k]] is a synonym of [[1000]]",
+            "weight": 2.0
+        }
+    ],
+    "q": [
+        {
+            "start": "q",
+            "end": "q and",
+            "relation": "n",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "Q",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[Q]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "q's",
+            "end": "q",
+            "relation": "q",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "qs",
+            "end": "q",
+            "relation": "q",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "q\u2019s",
+            "end": "q",
+            "relation": "q",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "6": [
+        {
+            "start": "half dozen",
+            "end": "6",
+            "relation": "wn",
+            "surfaceText": "[[half dozen]] is a synonym of [[6]]",
+            "weight": 3.4641016151377544
+        },
+        {
+            "start": "six",
+            "end": "6",
+            "relation": "wn",
+            "surfaceText": "[[six]] is a synonym of [[6]]",
+            "weight": 2.0
+        },
+        {
+            "start": "6",
+            "end": "six",
+            "relation": "quantity",
+            "surfaceText": "[[6]] is a synonym of [[six]]",
+            "weight": 2.0
+        },
+        {
+            "start": "cardinal",
+            "end": "6",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[6]]",
+            "weight": 2.0
+        },
+        {
+            "start": "6s",
+            "end": "6",
+            "relation": "6",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "l": [
+        {
+            "start": "l\u2019s",
+            "end": "l",
+            "relation": "l",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "L",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[L]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "ls",
+            "end": "l",
+            "relation": "l",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "l",
+            "end": "liter",
+            "relation": "quantity",
+            "surfaceText": "[[l]] is a synonym of [[liter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "l",
+            "end": "50",
+            "relation": "wn",
+            "surfaceText": "[[l]] is a synonym of [[50]]",
+            "weight": 2.0
+        }
+    ],
+    ",": [],
+    "2": [
+        {
+            "start": "2",
+            "end": "cardinal",
+            "relation": "wn",
+            "surfaceText": "[[2]] is similar to [[cardinal]]",
+            "weight": 2.0
+        },
+        {
+            "start": "ii",
+            "end": "2",
+            "relation": "wn",
+            "surfaceText": "[[ii]] is a synonym of [[2]]",
+            "weight": 2.0
+        },
+        {
+            "start": "two",
+            "end": "2",
+            "relation": "wn",
+            "surfaceText": "[[two]] is a synonym of [[2]]",
+            "weight": 2.0
+        },
+        {
+            "start": "cardinal",
+            "end": "2",
+            "relation": "wn",
+            "surfaceText": "[[cardinal]] is similar to [[2]]",
+            "weight": 2.0
+        },
+        {
+            "start": "2",
+            "end": "two",
+            "relation": "quantity",
+            "surfaceText": "[[2]] is a synonym of [[two]]",
+            "weight": 2.0
+        }
+    ],
+    "r": [
+        {
+            "start": "R",
+            "end": "letter",
+            "relation": "communication",
+            "surfaceText": "[[R]] is a type of [[letter]]",
+            "weight": 2.0
+        },
+        {
+            "start": "R",
+            "end": "roentgen",
+            "relation": "quantity",
+            "surfaceText": "[[R]] is a synonym of [[roentgen]]",
+            "weight": 2.0
+        },
+        {
+            "start": "r's",
+            "end": "r",
+            "relation": "r",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "r",
+            "end": "radius",
+            "relation": "attribute",
+            "surfaceText": "[[r]] is a synonym of [[radius]]",
+            "weight": 2.0
+        },
+        {
+            "start": "r\u2019s",
+            "end": "r",
+            "relation": "r",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "i": [
+        {
+            "start": "i",
+            "end": "pronoun",
+            "relation": "pronoun",
+            "surfaceText": "[[i]] is related to [[pronoun]]",
+            "weight": 3.982461550347976
+        },
+        {
+            "start": "I",
+            "end": "iodine",
+            "relation": "substance",
+            "surfaceText": "[[I]] is a synonym of [[iodine]]",
+            "weight": 2.0
+        },
+        {
+            "start": "myself",
+            "end": "i",
+            "relation": "i",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "dotless i",
+            "end": "i",
+            "relation": "i",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "i\u2019s",
+            "end": "i",
+            "relation": "i",
+            "surfaceText": null,
+            "weight": 2.0
+        }
+    ],
+    "h": [
+        {
+            "start": "The chemical symbol for hydrogen",
+            "end": "H",
+            "relation": "h",
+            "surfaceText": "[[The chemical symbol for hydrogen]] is [[H]]",
+            "weight": 2.0
+        },
+        {
+            "start": "hs",
+            "end": "h",
+            "relation": "h",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "h's",
+            "end": "h",
+            "relation": "h",
+            "surfaceText": null,
+            "weight": 2.0
+        },
+        {
+            "start": "H",
+            "end": "henry",
+            "relation": "quantity",
+            "surfaceText": "[[H]] is a synonym of [[henry]]",
+            "weight": 2.0
+        },
+        {
+            "start": "h",
+            "end": "Planck's constant",
+            "relation": "quantity",
+            "surfaceText": "[[h]] is a synonym of [[Planck's constant]]",
+            "weight": 2.0
+        }
+    ],
+    "[": [],
+    "]": []
+}
